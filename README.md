@@ -1,2 +1,2 @@
-The Tank Game
-Made in Java
+## The Tank Game
+A tank game built with Java.
